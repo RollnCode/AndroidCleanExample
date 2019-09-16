@@ -1,0 +1,17 @@
+[
+  {
+    "startDate": "2019-09-16T08:31:53.816Z",
+    "endDate": "2019-09-19T12:55:53.000Z",
+    "title": "Some title",
+    "color": "#fb9e00",
+    "location": [
+      "51.5007292",
+      "-0.1268141"
+    ],
+    "description": "The best description",
+    "contacts": [],
+    "address": "Westminster, London SW1A 0AA",
+    "events": [],
+    "speakers": []
+  }
+]
