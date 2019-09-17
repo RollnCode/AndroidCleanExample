@@ -36,8 +36,8 @@ dependencies {
     implementation "androidx.room:room-runtime:$vRoomVersion"
     kapt "androidx.room:room-compiler:$vRoomVersion"
 
-    implementation "io.reactivex.rxjava2:rxjava:$vRxJava" // TODO: check if needed
-    implementation "androidx.lifecycle:lifecycle-livedata-ktx:2.2.0-alpha04" // TODO: check if needed
+    implementation "io.reactivex.rxjava2:rxjava:$vRxJava"
+    implementation "androidx.lifecycle:lifecycle-livedata-ktx:2.2.0-alpha04"
 
     implementation "com.google.dagger:dagger-android:$vDagger"
     annotationProcessor "com.google.dagger:dagger-compiler:2.15"

@@ -4,7 +4,7 @@ import android.os.Parcelable
 import kotlinx.android.parcel.Parcelize
 
 @Parcelize
-class Details(
+class Detail(
     val title: String,
     val description: String,
     val address: String

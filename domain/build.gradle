@@ -31,8 +31,8 @@ android {
 dependencies {
     implementation fileTree(dir: 'libs', include: ['*.jar'])
 
-    implementation "io.reactivex.rxjava2:rxjava:$vRxJava" // TODO: check if needed
-    implementation "androidx.lifecycle:lifecycle-livedata-ktx:2.2.0-alpha04" // TODO: check if needed
+    implementation "io.reactivex.rxjava2:rxjava:$vRxJava"
+    implementation "androidx.lifecycle:lifecycle-livedata-ktx:2.2.0-alpha04"
 
     implementation "javax.inject:javax.inject:1@jar"
 }
